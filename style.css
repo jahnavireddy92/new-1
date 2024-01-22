@@ -1,0 +1,35 @@
+.head-left{
+  text-align:left;
+  padding-top:10px;
+}
+.head-right{
+  text-align:right;
+  googlevertical-align:top;
+  padding-right:40px;
+}
+
+body{
+  padding-left:40px;
+}
+.total{
+  background-color:lightgrey;
+  display:flex;
+  justify-content:space-between;
+}
+
+ul li::marker{
+  color:purple;
+}
+span{
+  color:purple;
+}
+h1{
+  padding-left:60px;
+}
+li{
+  float:left; 
+  margin-right:60px;
+}
+p{
+  padding-left:30px;
+}
